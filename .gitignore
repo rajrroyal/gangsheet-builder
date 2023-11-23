@@ -1,0 +1,13 @@
+*.log
+*.pot
+*.pyc
+.gitconfig
+*.env
+**/__pycache__/
+media
+.cache
+.bash_history
+.local
+.pm2
+staticfiles
+venv
